@@ -1,4 +1,5 @@
 import streamlit
+from . import requirements.txt
 #streamlit.add('requirements.txt')
 streamlit.title('My parents new healthy Dinner')
 streamlit.header(' Breakfast Favorites')
