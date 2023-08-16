@@ -1,5 +1,5 @@
 import streamlit
-#streamlit.add('requirement.txt')
+#streamlit.add('requirements.txt')
 streamlit.title('My parents new healthy Dinner')
 streamlit.header(' Breakfast Favorites')
 streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
